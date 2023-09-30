@@ -1,3 +1,5 @@
+# textEditor
+
 TEXT EDITOR
 
 This text editor with a GUI has several useful features.
