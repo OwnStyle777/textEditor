@@ -1,4 +1,3 @@
-# textEditor
 
 # TEXT EDITOR
 
