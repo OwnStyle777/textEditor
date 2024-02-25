@@ -5,6 +5,8 @@ This text editor with a GUI has several useful features.
 
  ## Components and their functions:
 
+ ![example](editor/example.png)
+
 ## SAVE button 
 > You can save any .txt file to a specific folder using the fileChooser. 
 You can click on the icon above the text area or go through File -> Save on the main bar.
