@@ -15,11 +15,11 @@ import java.util.List;
 
 public class TextEditor extends JFrame {
     JTextField fieldNameArea = new JTextField("");
-    JButton buttonSave = new JButton(new ImageIcon("C:\\Users\\DELL\\Desktop\\Icons\\diskette.png"));
-    JButton buttonOpen = new JButton(new ImageIcon("C:\\Users\\DELL\\Desktop\\Icons\\folder.png"));
-    JButton buttonPrevious = new JButton(new ImageIcon("C:\\Users\\DELL\\Desktop\\Icons\\left.png"));
-    JButton buttonNext = new JButton(new ImageIcon("C:\\Users\\DELL\\Desktop\\Icons\\right-arrow.png"));
-    JButton buttonSearch = new JButton(new ImageIcon("C:\\Users\\DELL\\Desktop\\Icons\\search.png"));
+     JButton buttonSave = new JButton(new ImageIcon("editor/icons/diskette.png"));
+    JButton buttonOpen = new JButton(new ImageIcon("editor/icons/folder.png"));
+    JButton buttonPrevious = new JButton(new ImageIcon("editor/icons/left.png"));
+    JButton buttonNext = new JButton(new ImageIcon("editor/icons/right-arrow.png"));
+    JButton buttonSearch = new JButton(new ImageIcon("editor/icons/search.png"));
     JCheckBox regexCheckBox = new JCheckBox();
     JLabel regexLabel = new JLabel();
     JTextArea textArea = new JTextArea("");
